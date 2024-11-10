@@ -1,0 +1,4 @@
+Finalizando, temos o Padrão Pattern OBSERVER - Comportamental
+
+Continuando com o mesmo conceito dos outros, esse codigo usa o padrão Observer para monitorar alterações nas configurações da aplicação. 
+Com este padrão, quando uma configuração é alterada, todos os observadores (objetos interessados) são notificados automaticamente.

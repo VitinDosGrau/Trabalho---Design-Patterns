@@ -1,0 +1,8 @@
+Opa Opa
+
+Seguindo, vamos para os algoritmos Estruturais. Usamos em questão, o FACADE
+
+Continuamos com a mesma ideia usado no Singleton, obedecendo a demanda (Tema Unico)
+
+Continuamos com o sistema de gerenciamento de configurações da aplicação.
+O Facade esconderá a complexidade da manipulação direta dessas configurações individuais.

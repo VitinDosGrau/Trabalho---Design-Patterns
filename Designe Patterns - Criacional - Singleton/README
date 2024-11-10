@@ -1,0 +1,8 @@
+Salve Professor !!!!
+
+Como solicitado no trabalho, temos nosso primeiro algoritimo Design Pattens. Esse é uma das opções da aula 7 (Criacionais), e usamos o Singleton.
+Basicamente, como explicado, usa apenas uma instancia, construtores privados e um metodo de acesso estatico. 
+
+-
+
+O Codigo que achamos simula um sistema de um gerenciador de configurações que pode carregar, salvar e fornecer acesso a configurações globais da aplicação.
