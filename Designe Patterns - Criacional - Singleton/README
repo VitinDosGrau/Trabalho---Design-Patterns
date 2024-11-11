@@ -5,4 +5,4 @@ Basicamente, como explicado, usa apenas uma instancia, construtores privados e u
 
 -
 
-O Codigo que achamos simula um sistema de um gerenciador de configurações que pode carregar, salvar e fornecer acesso a configurações globais da aplicação.
+O Codigo que realizamos simula um sistema de um gerenciador de configurações que pode carregar, salvar e fornecer acesso a configurações globais da aplicação.
