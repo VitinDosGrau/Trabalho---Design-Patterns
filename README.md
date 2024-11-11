@@ -4,4 +4,4 @@ INTEGRANTES: JOÃO VICTOR JAFET FRANCISCO DOS SANTOS - RA 923102302 / VICTOR DE 
 
 Como solicitado, foram realizados 3 algortimos. Um para cada tipo de Desgn Patterns (Criacionais, Estruturais e Comportamentais).
 
-Igual ao que foi requisitado, mantivemos o mesmo assunto para cada Design. Cada um se complementa do seu metodo.
+Igual ao que foi requisitado, mantivemos o mesmo assunto para cada Design. Cada um se complementa do seu método.
